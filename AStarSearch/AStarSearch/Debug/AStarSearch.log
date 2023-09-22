@@ -1,0 +1,4 @@
+﻿  AStarSearch.cpp
+C:\Users\firat\source\repos\AStarSearch\AStarSearch\AStarSearch.cpp(323,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\firat\source\repos\AStarSearch\AStarSearch\AStarSearch.cpp(325,15): warning C4018: '<': signed/unsigned mismatch
+  AStarSearch.vcxproj -> C:\Users\firat\source\repos\AStarSearch\Debug\AStarSearch.exe
