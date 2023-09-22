@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameDev3.26/1.0.0": {
+        "runtime": {
+          "GameDev3.26.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameDev3.26/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
